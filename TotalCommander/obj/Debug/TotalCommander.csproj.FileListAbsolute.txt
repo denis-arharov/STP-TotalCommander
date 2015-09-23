@@ -1,1 +1,2 @@
 D:\V СЕМЕСТР\VS Projects\TotalCommander\TotalCommander\bin\Debug\TotalCommander.exe.config
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCommander\bin\Debug\TotalCommander.exe.config
