@@ -22,7 +22,7 @@ namespace TotalCommander
     {
         public MainWindow()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
     }
 }
