@@ -1,0 +1,2 @@
+D:\V СЕМЕСТР\STP\STP-TotalCommander\Setup\bin\Debug\TotalCmd-x86-1.0.0.2.msi
+D:\V СЕМЕСТР\STP\STP-TotalCommander\Setup\bin\Debug\TotalCmd-x86-1.0.0.2.wixpdb

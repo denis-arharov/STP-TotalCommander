@@ -1,0 +1,14 @@
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\MainWindow.baml
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\MainWindow.g.cs
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\App.g.cs
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCommander.Properties.Resources.resources
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd.csproj.GenerateResource.Cache
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\bin\Debug\TotalCmd.exe.config
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\bin\Debug\TotalCmd.exe
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\bin\Debug\TotalCmd.pdb
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\bin\Debug\TotalCmd.exe.CodeAnalysisLog.xml
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\bin\Debug\TotalCmd.exe.lastcodeanalysissucceeded
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd_MarkupCompile.cache
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd.g.resources
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd.exe
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd.pdb
