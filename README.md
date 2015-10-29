@@ -1,2 +1,2 @@
 # STP-TotalCommander
-<image src="https://ci.appveyor.com/api/projects/status/9ujrunji41djok36?svg=true" width="300">
+<image src="https://ci.appveyor.com/api/projects/status/cakeoodnh4xbyfie" width="300">
