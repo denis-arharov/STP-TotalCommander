@@ -28,7 +28,7 @@
 	<Fragment>
 		<ComponentGroup Id="ProductComponents" Directory="TESTFILEPRODUCTDIR">
       <Component Id="MainExecutable" KeyPath="yes" Guid="481C0AC6-5672-4AED-86D5-AF613B5B9C9E">
-        <File Source="$(var.SolutionDir)\TotalCmd\bin\Debug\TotalCmd.exe" />
+        <File Source="..\TotalCmd\bin\Debug\TotalCmd.exe" />
       </Component>
 		</ComponentGroup>
 	</Fragment>
