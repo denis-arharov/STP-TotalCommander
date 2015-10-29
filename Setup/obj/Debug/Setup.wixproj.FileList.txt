@@ -2,5 +2,5 @@ obj\Debug\Product.wixobj
 obj\Debug\Setup.wixproj.BindContentsFileListnull.txt
 obj\Debug\Setup.wixproj.BindOutputsFileListnull.txt
 obj\Debug\Setup.wixproj.BindBuiltOutputsFileListnull.txt
-D:\V СЕМЕСТР\STP\STP-TotalCommander\Setup\bin\Debug\TotalCmd-x86-1.0.0.2.msi
-D:\V СЕМЕСТР\STP\STP-TotalCommander\Setup\bin\Debug\TotalCmd-x86-1.0.0.2.wixpdb
+D:\V СЕМЕСТР\STP\STP-TotalCommander\Setup\bin\Debug\TotalCmd-x86-0.0.0.1.msi
+D:\V СЕМЕСТР\STP\STP-TotalCommander\Setup\bin\Debug\TotalCmd-x86-0.0.0.1.wixpdb

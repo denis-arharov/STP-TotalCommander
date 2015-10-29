@@ -12,3 +12,4 @@ D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd_MarkupCom
 D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd.g.resources
 D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd.exe
 D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd.pdb
+D:\V СЕМЕСТР\STP\STP-TotalCommander\TotalCmd\obj\Debug\TotalCmd.csprojResolveAssemblyReference.cache
