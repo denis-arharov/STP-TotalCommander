@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+
+
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi"
+     xmlns:netfx="http://schemas.microsoft.com/wix/NetFxExtension">
 
   
 	<Product Id="*" Name="TotalCmd" Language="1033" Version="$(var.ProductVersion)" Manufacturer="STP" UpgradeCode="ddaed314-7b67-4c5e-959b-50da77589586">
@@ -14,6 +17,11 @@
 
     <UIRef Id="WixUI_InstallDir" />
     <Property Id="WIXUI_INSTALLDIR" Value="TESTFILEPRODUCTDIR" />
+
+    <PropertyRef Id="NETFRAMEWORK40FULL"/>
+    <Condition Message='This setup requires Microsoft .NET Framework 4.0 Full package or greater needs to be installed for this installation to continue.'>
+      <![CDATA[Installed OR NETFRAMEWORK40FULL]]>
+    </Condition>
 
   </Product>
 
